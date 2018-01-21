@@ -12,3 +12,6 @@
 10. y = x 함수 그래프로 그리기
 11. y = x + 1 그래프로 그리기
 12. 함수 x2는 x + 1인 함수를 만들어 보세요
+
+13.pandas.DataFrame.to_csv로 dta 를 csv로 바꾸기
+14.pandas.read_csv로 csv읽어오기
