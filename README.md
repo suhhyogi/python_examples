@@ -1,3 +1,20 @@
+#1주차
+
+## project만들기
+    * Create Project를 누르세요
+    * 경로설정을 해야합니다.
+
+    * c:\git\python\python_practice_01
+
+    * 우측 하단 Create
+    * 그러면 파이썬이 빌드를 합니다.
+    * 빌드가 완료되면 왼쪽에 project explorer가 나옵니다.
+    * 왼쪽에 파일이 보이는 부분을 project explorer라고 합니다.
+
+    * python_practice_01이라고 되어있는 부분이
+    * project root입니다.
+
+
 # 실습
 ## week1
 0. bye를 출력하는 함수 만들기
