@@ -14,11 +14,27 @@
     * python_practice_01이라고 되어있는 부분이
     * project root입니다.
 
+## package만들고 python파일 만들기
+    * 오른쪽 버튼을 눌러서 context menu를 엽니다.
+    * 마우스 오른쪽 버튼을 누르면 나오는 메뉴가 context메뉴 입니다.
+
+    * New -> python package 선택합니다.
+
+    * package이름을 com으로 합니다.
+    * package는 폴더라고 생각하시면 됩니다.
+
+    * 폴더(package)를 만들고 python파일을 만듭니다.
+    * 만든 package에서 context menu를 호출 합니다.
+    * new -> python file
+    * 파일명 01_hello
+
+
 
 # 실습
 ## week1
 0. bye를 출력하는 함수 만들기
-1. plus, minus, multiple, divide 함수 만들기
+1. plus, minus, multiple, divide 함수 만들기(사칙연산)
+    - 숫자 2개를 입력 받는 함수 4개를 만듭니다.
 2. 0~99까지 숫자 만들기 arange
 3. filter이용해서 80보다 큰 숫자 콘솔에 출력하기
 4. data만들고 matplot으로 chart그리기
